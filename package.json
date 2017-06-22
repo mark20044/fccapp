@@ -1,0 +1,22 @@
+{
+  "name": "@mark2004/fccapp",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Mark Smith",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark20044/fccapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mark20044/fccapp/issues"
+  },
+  "homepage": "https://github.com/mark20044/fccapp#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
